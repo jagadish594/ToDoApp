@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li{
+  text-align: left;
+}
+
+ul{
+  list-style: none;
+  background-color: rgba(206, 255, 127, 0.972);
+}
+
+.ButtonStyleDelete{
+  background-color: beige;
+  padding: 10px, 10px, 10px, 10px;
+  height: 30px;
+  width: 70px;
+  margin: 5px;
+  border-radius: 5%;
+}
+
+.ButtonStyleAdd{
+  background-color: beige;
+  padding: 10px, 10px, 10px, 10px;
+  height: 47px;
+  width: 60px;
+  margin: 5px;
+  border-radius: 5%;
+  font-size: large;
+}
+
+.TaskStyle{
+  text-align: left;
+  padding: 10px, 10px, 10px, 10px;
+}
+
+.InputBoxStyle{
+  width: 260px;
+  height: 30px;
+  border-radius: 5%;
+  padding: 5px;
+  margin: 5px;
+  font-size: large;
+}
